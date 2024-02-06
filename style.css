@@ -1,7 +1,16 @@
 body {
   color: blue;
+  display: flex;
+  justify-content: center;
 }
 h1 {
     text-align: center;
     text-wrap: pretty;
+}
+
+.limber-lundquist {
+  color: red;
+  text-align: center;
+  background: palegoldenrod;
+  border: 1px;
 }
